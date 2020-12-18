@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asdlfkj;adslfkjask;dfj
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+adsfasdf
+>>>>>>> 9195982669090cca11029a8eb22bda3b87c76d9f
